@@ -27,14 +27,14 @@
 
 📊 Github Stats 📊
 
-![Anurag's GitHub stats](https://github-readme-stats-five-lovat-15.vercel.app/api?username=pyominmin&show_icons=true&theme=transparent)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=pyominmin)](https://solved.ac/pyominmin/)
 <img src="http://mazandi.herokuapp.com/api?handle={pyominmin}&theme=cold"/>
 
 
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=pyominmin)](https://solved.ac/pyominmin/)
 
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pyominmin&show_icons=true&bg_color=00000000)
 </div>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pyominmin&show_icons=true&bg_color=00000000)
