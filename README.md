@@ -29,7 +29,9 @@
 
 ![pyominmin's github stats](https://github-readme-stats.vercel.app/api?username=pyominmin&show_icons=true) <img src="http://mazandi.herokuapp.com/api?handle={pyominmin}&theme=cold"/>
 
-</div>
 
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=pyominmin)](https://solved.ac/pyominmin/)
+
+
+</div>
