@@ -5,12 +5,12 @@
  
 
 ✏️studing✏️
-<img src="https://img.shields.io/badge/007396?style=for-the-badge&logo=JAVA&logoColor=black">
+<img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=JAVA&logoColor=black">
+
 🔥What I want to learn🔥
 
  
  ☁️ SNS ☁️
-
  
  <a href="https://www.instagram.com/myopingu_/" target="_blank"><img src="https://img.shields.io/badge/instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/></a>
 
