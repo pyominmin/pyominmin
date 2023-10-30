@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=Transparent&color=auto&height=300&section=header&text=Welcome&fontAlignY=45&fontSize=90&desc=PyoMin's%20GitHub%20profile)
+![header](https://capsule-render.vercel.app/api?type=transparent&color=auto&height=300&section=header&text=Welcome&fontAlignY=45&fontSize=90&desc=PyoMin's%20GitHub%20profile)
  
 
 
