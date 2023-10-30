@@ -30,3 +30,7 @@
 ![pyominmin's github stats](https://github-readme-stats.vercel.app/api?username=pyominmin&show_icons=true) ![mazandi profile](http://mazandi.herokuapp.com/api?handle={pyominmin}&theme=cold)
 
 </div>
+
+
+[![Solved.ac
+pyominmin](http://mazassumnida.wtf/api/v2/generate_badge?boj={handle})](https://solved.ac/{handle})
