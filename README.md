@@ -27,7 +27,7 @@
 
 📊 Github Stats 📊
 
-![Anurag's GitHub stats](https://github-readme-stats-five-lovat-15.vercel.app/api?username=pyominmin&show_icons=true&theme=default)
+![Anurag's GitHub stats](https://github-readme-stats-five-lovat-15.vercel.app/api?username=pyominmin&show_icons=true&theme=transparent)
 <img src="http://mazandi.herokuapp.com/api?handle={pyominmin}&theme=cold"/>
 
 
