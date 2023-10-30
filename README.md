@@ -27,7 +27,7 @@
 
 📊 Github Stats 📊
 
-![pyominmin's github stats](https://github-readme-stats.vercel.app/api?username=pyominmin&show_icons=true&card_width=50) <img src="http://mazandi.herokuapp.com/api?handle={pyominmin}&theme=cold"/>
+![pyominmin's github stats](https://github-readme-stats.vercel.app/api?username=pyominmin&show_icons=true&card_width=20) <img src="http://mazandi.herokuapp.com/api?handle={pyominmin}&theme=cold"/>
 
 
 
