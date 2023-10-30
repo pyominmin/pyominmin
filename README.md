@@ -27,7 +27,7 @@
 
 📊 Github Stats 📊
 
-![Bijou's GitHub stats](https://github-readme-stats.vercel.app/api?pyominmin=anuraghazra&show_icons=true&theme=transparent) <img src="http://mazandi.herokuapp.com/api?handle={pyominmin}&theme=cold"/>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?pyominmin=anuraghazra&theme=default&show_icons=true) <img src="http://mazandi.herokuapp.com/api?handle={pyominmin}&theme=cold"/>
 
 
 
