@@ -27,7 +27,8 @@
 
 📊 Github Stats 📊
 
-<a href="https://github.com/imysh578"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api?pyominmin=imysh578&show_icons=true&include_all_commits=true&theme=nord&hide_border=true" alt="SOKURI's github stats" /></a><img src="http://mazandi.herokuapp.com/api?handle={pyominmin}&theme=cold"/>
+![minmin's GitHub stats](https://github-readme-stats.vercel.app/api?pyominmin=anuraghazra&show_icons=true&theme=transparent)
+<img src="http://mazandi.herokuapp.com/api?handle={pyominmin}&theme=cold"/>
 
 
 
