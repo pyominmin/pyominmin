@@ -10,7 +10,7 @@
 
 🔥What I want to learn🔥
 
-<img src="https://img.shields.io/badge/spring-#6DB33F?style=for-the-badge&logo=spring&logoColor=black">
+<img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=black">
  
  ☁️ SNS ☁️
  
