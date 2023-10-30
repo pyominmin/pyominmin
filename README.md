@@ -32,5 +32,4 @@
 </div>
 
 
-[![Solved.ac
-pyominmin](http://mazassumnida.wtf/api/v2/generate_badge?boj={handle})](https://solved.ac/{handle})
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=pyominmin)](https://solved.ac/pyominmin/)
