@@ -27,7 +27,7 @@
 
 📊 Github Stats 📊
 
-![minmin's GitHub stats](https://github-readme-stats.vercel.app/api?pyominmin=anuraghazra&show_icons=true&theme=transparent)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?pyominmin=anuraghazra&show_icons=true&bg_color=00000000)
 <img src="http://mazandi.herokuapp.com/api?handle={pyominmin}&theme=cold"/>
 
 
