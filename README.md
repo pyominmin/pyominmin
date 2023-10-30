@@ -2,6 +2,7 @@
 
 
 ![header](https://capsule-render.vercel.app/api?text=Hello,%20I'm%20Min⭐&fontSize=50&type=transparent&color=autok&height=300&section=header&&fontAlignY=45&desc=&animation=twinkling)
+
 ✏️ Tech Stacks ✏️
 
 <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=JAVA&logoColor=black">
@@ -26,6 +27,6 @@
 
 📊 Github Stats 📊
 
-![pyominmin's github stats](https://github-readme-stats.vercel.app/api?username=pyominmin&show_icons=true) ![mazandi profile](http://mazandi.herokuapp.com/api?handle={handle}&theme=cold)
+![pyominmin's github stats](https://github-readme-stats.vercel.app/api?username=pyominmin&show_icons=true) ![mazandi profile](http://mazandi.herokuapp.com/api?handle={pyominmin}&theme=cold)
 
 </div>
