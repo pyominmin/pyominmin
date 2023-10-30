@@ -1,8 +1,9 @@
-![header](https://capsule-render.vercel.app/api?type=transparent&color=auto&height=300&section=header&&fontAlignY=45&fontSize=90&desc=Hello,%20I'm%20Min)
+ <div align="center">
+
+
+![header](https://capsule-render.vercel.app/api?type=transparent&color=auto&height=300&section=header&&fontAlignY=45&fontSize=90&&animation=desc=Hello,%20I'm%20Min)
  
 
-
- <div align="center">
  
 
  
