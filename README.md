@@ -4,7 +4,9 @@
 ![header](https://capsule-render.vercel.app/api?text=Hello,%20I'm%20Min⭐&fontSize=50&type=transparent&color=autok&height=300&section=header&&fontAlignY=45&desc=&animation=twinkling)
  
 
- 
+✏️studing✏️
+<img src="https://img.shields.io/badge/007396?style=for-the-badge&logo=JAVA&logoColor=black">
+🔥What I want to learn🔥
 
  
  ☁️ SNS ☁️
