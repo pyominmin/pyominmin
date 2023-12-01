@@ -1,6 +1,7 @@
  <div align="center">
 
 
+![header](https://capsule-render.vercel.app/api?text=Hello,%20I'm%20Min⭐&fontSize=50&type=transparent&color=autok&height=300&section=header&&fontAlignY=45&desc=&animation=twinkling)
 ✏️ Tech Stacks ✏️
 
 <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=JAVA&logoColor=black">
@@ -29,8 +30,6 @@
 
 
 
-
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=pyominmin)](https://solved.ac/pyominmin/)
 
 
 </div>
