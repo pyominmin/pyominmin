@@ -2,6 +2,8 @@
 
 
 ![header](https://capsule-render.vercel.app/api?text=⭐PYO%20MIN⭐&fontSize=50&type=transparent&color=autok&height=300&section=header&&fontAlignY=45&desc=&animation=twinkling)
+
+</div>
 ✏️ Tech Stacks ✏️
 
 <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=JAVA&logoColor=black">
@@ -29,8 +31,4 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pyominmin&show_icons=true&theme=graywhite)
 
 
-
-
-
-</div>
 
