@@ -26,7 +26,7 @@
 
 📊 Github Stats 📊
 
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=pyominmin&color=dark)]
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pyominmin&show_icons=true&theme=dark)
 
 
 
