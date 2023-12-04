@@ -7,7 +7,14 @@
 
 
 
+ 
+ ☁️ SNS ☁️
+ 
+ <a href="https://www.instagram.com/myopingu_/" target="_blank"><img src="https://img.shields.io/badge/instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/></a>
 
+ <br/><br/>
+
+ 
 Skills & Tools
 
 <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=JAVA&logoColor=black"> <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=black">
@@ -15,12 +22,6 @@ Skills & Tools
 
  <br/><br/>
 
- 
- ☁️ SNS ☁️
- 
- <a href="https://www.instagram.com/myopingu_/" target="_blank"><img src="https://img.shields.io/badge/instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/></a>
-
- <br/><br/>
 
 📊 Github Stats 📊
 
