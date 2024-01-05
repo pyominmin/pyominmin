@@ -17,8 +17,9 @@
  
 Skills & Tools
 
-<img src="https://img.shields.io/badge/HTML-98FB98?style=fot-the-badge&logo=HTML5&logoColor=E34F26"> <img src="https://img.shields.io/badge/CSS-98FB98?style=fot-the-badge&logo=CSS3&logoColor=1572B6"> <img src="https://img.shields.io/badge/Java Script-98FB98?style=fot-the-badge&logo=JavaScript&logoColor=F7DF1E">
-<img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
+<img src="https://img.shields.io/badge/HTML-8BC0D0?style=fot-the-badge&logo=HTML5&logoColor=E34F26"> <img src="https://img.shields.io/badge/CSS-8BC0D0?style=fot-the-badge&logo=CSS3&logoColor=1572B6"> <img src="https://img.shields.io/badge/Java Script-8BC0D0?style=fot-the-badge&logo=JavaScript&logoColor=F7DF1E">
+<br/><br/>
+<img src="https://img.shields.io/badge/java-E8E8E8?style=for-the-badge&logo=java&logoColor=white">
  <br/><br/>
  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pyominmin&layout=compact)
