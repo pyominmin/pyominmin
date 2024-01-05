@@ -13,7 +13,7 @@ Blog : [티스토리](https://myopin.tistory.com/category)
 
 <img src="https://img.shields.io/badge/HTML-FCBFBD?style=fot-the-badge&logo=HTML5&logoColor=E34F26"> <img src="https://img.shields.io/badge/CSS-FCBFBD?style=fot-the-badge&logo=CSS3&logoColor=1572B6"> <img src="https://img.shields.io/badge/Java Script-FCBFBD?style=fot-the-badge&logo=JavaScript&logoColor=F7DF1E">
 <br/><br/>
-<img src="https://img.shields.io/badge/java-E8E8E8?style=fot-the-badge&logo=java&logoColor=white">
+<img src="https://img.shields.io/badge/Java-E8E8E8?style=fot-the-badge&logo=java&logoColor=white">
  <br/><br/>
  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pyominmin&layout=compact)
