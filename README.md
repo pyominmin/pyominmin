@@ -1,12 +1,6 @@
- <div align="center">
 
-
-![header](https://capsule-render.vercel.app/api?text=⭐PYO%20MIN⭐&fontSize=50&type=transparent&color=autok&height=300&section=header&&fontAlignY=45&desc=&animation=twinkling)
-
-</div>
-
-
-
+안녕하세요, 꾸준히 성장하는 표민입니다.
+제가 하고 있는 [블로그](https://myopin.tistory.com/category)입니다.
  
  ☁️ SNS ☁️
  
