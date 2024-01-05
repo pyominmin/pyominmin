@@ -7,7 +7,7 @@
  
  <a href="https://www.instagram.com/myopingu_/" target="_blank"><img src="https://img.shields.io/badge/instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/></a>
  <br/><br/>
-Skills & Tools
+⚡Skills & Tools⚡
 
 <img src="https://img.shields.io/badge/HTML-FCBFBD?style=fot-the-badge&logo=HTML5&logoColor=E34F26"> <img src="https://img.shields.io/badge/CSS-FCBFBD?style=fot-the-badge&logo=CSS3&logoColor=1572B6"> <img src="https://img.shields.io/badge/Java Script-FCBFBD?style=fot-the-badge&logo=JavaScript&logoColor=F7DF1E">
 <br/><br/>
