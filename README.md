@@ -20,6 +20,8 @@ Skills & Tools
 <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=JAVA&logoColor=black"> <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=black">
 
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pyominmin&layout=compact)
+
  <br/><br/>
 
 
