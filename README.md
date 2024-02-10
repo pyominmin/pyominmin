@@ -5,6 +5,8 @@ Email : myoping99@gmail.com
 
 Blog : [티스토리](https://myopin.tistory.com/category)
 
+YouTube : https://www.youtube.com/@user-iy5kw1bc9f
+
 ## ☁️ SNS ☁️
  
  <a href="https://www.instagram.com/myopingu_/" target="_blank"><img src="https://img.shields.io/badge/instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/></a>
