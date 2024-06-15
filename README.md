@@ -17,6 +17,6 @@ YouTube : [https://www.youtube.com/@user-iy5kw1bc9f](https://youtube.com/@bijou3
 <br/><br/>
 <img src="https://img.shields.io/badge/Java-E8E8E8?style=fot-the-badge&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/springboot-6DB33F?style=fot-the-badge&logo=springboot&logoColor=white"> <img src="https://img.shields.io/badge/Python-3776AB?style=fot-the-badge&logo=Python&logoColor=white">
  <br/><br/>
- <img src="https://img.shields.io/badge/MySQL-4479A1?style=fot-the-badge&logo=MySQL&logoColor=white">
+ <img src="https://img.shields.io/badge/MySQL-4479A1?style=fot-the-badge&logo=MySQL&logoColor=white"> <img src="https://img.shields.io/badge/github-181717?style=fot-the-badge&logo=github&logoColor=white"> <img src="https://img.shields.io/badge/git-F05032?style=fot-the-badge&logo=git&logoColor=white">
  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pyominmin&layout=compact)
