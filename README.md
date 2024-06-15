@@ -5,7 +5,7 @@ Email : myoping99@gmail.com
 
 Blog : [티스토리](https://myopin.tistory.com/category)
 
-YouTube : https://www.youtube.com/@user-iy5kw1bc9f
+YouTube : [https://www.youtube.com/@user-iy5kw1bc9f](https://youtube.com/@bijou321?si=_EfTtQp1cwXUi-m5)
 
 ## ☁️ SNS ☁️
  
